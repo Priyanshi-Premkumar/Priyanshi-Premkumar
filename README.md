@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=24&pause=1000&color=ECF1F7&width=435&lines=Hello+Human+Beings!;This+is+;Priyanshi+Premkumar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Creepster&size=24&pause=1000&color=7E0807&width=435&lines=Hello+Human+Beings!;This+is+;Priyanshi+Premkumar" alt="Typing SVG" /></a>
   </h1>
 
 <h3 align="center">A self-motivated and enthusiastic individual with moderate technical and programming skills. I enjoy exploring new technologies and tinkering with code to build interesting projects.</h3>
