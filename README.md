@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-premkumar&" alt="priyanshi-premkumar" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/priyanshipremkumar)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-Premkumar&layout=compact&theme=radical&langs_count=8)
