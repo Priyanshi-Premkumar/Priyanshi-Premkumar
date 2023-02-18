@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ID Card Detection**
 
-- 📫 How to reach me **https://www.linkedin.com/in/priyanshi-premkumar-335ba01ba/**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/priyanshi-premkumar-335ba01ba/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
