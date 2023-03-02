@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshi-premkumar" alt="priyanshi-premkumar" /></a> </p>
 
-- 🔭 I’m currently working on **ID Card Detection**
+- 🔭 I’m currently working on - **ID Card Detection**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/priyanshi-premkumar-335ba01ba/)**
 
